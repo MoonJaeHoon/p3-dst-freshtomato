@@ -3,6 +3,10 @@
 - Task: 주어진 목적 지향형 대화의 Dialogue State를 예측합니다.
 - Metric: Joint Goal Accuracy, Slot Accuracy, Slot F1 Score
 
+## Summary
+![image](https://user-images.githubusercontent.com/54096561/125474984-f8b032bd-8122-403c-b0ea-affcc68393aa.png)
+
+
 ## Command Line Interface
 ### Train Phase
 ```python
